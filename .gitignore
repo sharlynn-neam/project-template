@@ -49,4 +49,4 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-/data/patient_data.csv
+*.csv
